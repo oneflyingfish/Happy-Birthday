@@ -375,7 +375,7 @@ def main():
     turtle.penup()
     turtle.goto(230,-300)
     turtle.pendown()
-    turtle.write("----from 甜", font=('宋体', 15, 'normal'))
+    turtle.write("----from xx", font=('宋体', 15, 'normal'))
 
     turtle.hideturtle()
     turtle.mainloop()
