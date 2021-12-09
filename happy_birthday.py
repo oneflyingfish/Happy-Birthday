@@ -343,32 +343,37 @@ def main():
     turtle.color('deepskyblue')
 
     turtle.penup()
-    turtle.goto(-135, -20)
+    turtle.goto(-112, -30)
     turtle.pendown()
     turtle.write("x", font=('华文行楷', 25, 'normal'))
 
     turtle.penup()
-    turtle.goto(-85, -40)
+    turtle.goto(-79, -45)
     turtle.pendown()
     turtle.write("x", font=('华文行楷', 25, 'normal'))
 
     turtle.penup()
-    turtle.goto(-30, -50)
+    turtle.goto(-46, -50)
+    turtle.pendown()
+    turtle.write("x", font=('华文行楷', 25, 'normal'))
+    
+    turtle.penup()
+    turtle.goto(-13, -60)
     turtle.pendown()
     turtle.write("生", font=('华文行楷', 25, 'normal'))
 
     turtle.penup()
-    turtle.goto(10, -50)
+    turtle.goto(20, -50)
     turtle.pendown()
     turtle.write("日", font=('华文行楷', 25, 'normal'))
 
     turtle.penup()
-    turtle.goto(60, -40)
+    turtle.goto(53, -40)
     turtle.pendown()
     turtle.write("快", font=('华文行楷', 25, 'normal'))
 
     turtle.penup()
-    turtle.goto(100, -20)
+    turtle.goto(86, -20)
     turtle.pendown()
     turtle.write("乐", font=('华文行楷', 25, 'normal'))
 
